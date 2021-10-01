@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Currently working on Loot Oracles.
+  Currently working at [Eternal](https://eternal.gg/)
 </p>
 
 <p align="center">
