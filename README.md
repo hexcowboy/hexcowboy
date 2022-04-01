@@ -2,11 +2,6 @@
   hexcowboy
 </h1>
 
-
-<p align="center">
-  Currently working at <a href="https://eternal.gg/">Eternal.gg</a>
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hexcowboy&theme=dark" />
 </p>
