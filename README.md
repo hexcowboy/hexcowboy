@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-  <a href="https://cowboy.dev/" target="_blank">hexcowboy.dev</a> | <a href="https://discordapp.com/users/418557177825853443">discord</a>
+  <a href="https://cowboy.dev/" target="_blank">cowboy.dev</a> | <a href="https://discordapp.com/users/418557177825853443">discord</a>
 </p>
