@@ -3,6 +3,10 @@
 </h1>
 
 <p align="center">
+Currently available for freelance work and open source contributions. Contact on Discord (link below).
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hexcowboy&theme=dark" />
 </p>
 
