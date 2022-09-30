@@ -3,7 +3,15 @@
 </h1>
 
 <p align="center">
-Currently available for freelance work and open source contributions. Contact on Discord (link below).
+  Fullstack with thorough experience in <strong>TypeScript, React/Next.js, Golang, Rust, and Ethereum</strong>.
+  <br />
+  Security certified (OSCP, Security+, Linux+). Previously Lead Engineer at eternal.gg.
+</p>
+
+<p align="center">
+  Currently available for freelance work and open source bounties. Contact on Discord (link below).
+  <br />
+  I only work pseudonymously.
 </p>
 
 <p align="center">
