@@ -10,8 +10,6 @@
 
 <p align="center">
   Currently available for freelance work and open source bounties. Contact on Discord (link below).
-  <br />
-  I only work pseudonymously.
 </p>
 
 <p align="center">
