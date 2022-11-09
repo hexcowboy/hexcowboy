@@ -3,13 +3,9 @@
 </h1>
 
 <p align="center">
-  Fullstack with thorough experience in <strong>TypeScript, React/Next.js, Golang, Rust, and Ethereum</strong>.
+  Fullstack Engineer with experience in <strong><em>TypeScript, React/Next.js, Golang, Rust, and Ethereum</em></strong>.
   <br />
-  Security certified (OSCP, Security+, Linux+). Previously Lead Engineer at eternal.gg.
-</p>
-
-<p align="center">
-  Currently available for freelance work and open source bounties. Contact on Discord (link below).
+  Security certified (OSCP, Security+, Linux+).
 </p>
 
 <p align="center">
